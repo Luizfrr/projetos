@@ -62,14 +62,8 @@ Se você deseja contribuir para algum dos meus projetos, fique à vontade para a
 
 Você pode me encontrar nas seguintes plataformas:
 
-- [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [E-mail](seuemail@example.com)
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
----
+- [GitHub](https://github.com/Luizfrr)
+- [LinkedIn](https://br.linkedin.com/in/luizfrr)
+- [E-mail](luizggfo@gmail.com)
 
 Obrigado por visitar meu portfólio!
