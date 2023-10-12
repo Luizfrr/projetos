@@ -14,9 +14,9 @@ emocionante no desenvolvimento de software.
 
 ## Projetos
 
-### Linguagem A
+### Python 
 
-#### Projeto 1
+#### Batalha Naval 
 
 [Descrição do Projeto 1]
 
@@ -34,7 +34,7 @@ emocionante no desenvolvimento de software.
 
 ![Imagem do Projeto 2](projeto-2a.png)
 
-### Linguagem B
+### Java e C
 
 #### Projeto 1
 
