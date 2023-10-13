@@ -18,14 +18,14 @@ emocionante no desenvolvimento de software.
 
 #### Batalha Naval 
 
-[Descrição do Projeto 1]
+[Simula o jogo de batalha naval através do própio terminal(linha de comando)]
 
-- [Link para o Projeto 1](https://github.com/seu-usuario/projeto-1a)
-- [Demonstração ao vivo](https://www.example.com/projeto-1a)
+- [Link para o projeto de Batalha Naval](https://github.com/seu-usuario/projeto-1a)
+- [Demonstração ao vivo(em andamento)](https://www.example.com/projeto-1a)
 
 ![Imagem do Projeto 1](projeto-1a.png)
 
-#### Projeto 2
+#### Projeto 2(em andamento)
 
 [Descrição do Projeto 2]
 
@@ -34,7 +34,7 @@ emocionante no desenvolvimento de software.
 
 ![Imagem do Projeto 2](projeto-2a.png)
 
-### Java e C
+### Java e C(em andamento)
 
 #### Projeto 1
 
