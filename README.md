@@ -36,12 +36,12 @@ emocionante no desenvolvimento de software.
 
 ### Java e C(em andamento)
 
-#### Projeto 1
+#### Quiz
 
-[Descrição do Projeto 1]
+[Perguntas e respostas]
 
-- [Link para o Projeto 1](https://github.com/seu-usuario/projeto-1b)
-- [Demonstração ao vivo](https://www.example.com/projeto-1b)
+- [Link para o Projeto 1](https://github.com/Luizfrr/Quiz)
+- [Demonstração ao vivo(em andamento)](https://www.example.com/projeto-1b)
 
 ![Imagem do Projeto 1](projeto-1b.png)
 
